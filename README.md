@@ -1,0 +1,2 @@
+# erstegitversuche-vorlage
+Vorlage für die Übung EINFÜHRUNG IN GIT &amp; GITHUB
